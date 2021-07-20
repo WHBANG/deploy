@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 master
-=======
 hello world
->>>>>>> 4705a652a8ee3f510cd8bad8cb544a91f437f73b
